@@ -13,6 +13,7 @@ def main():
       number2 = int(input("Enter second number: "))
 
       # TODO: fill in the logic that implements the program here!
+      # You must use functions.
 
 
 if __name__ == "__main__":
