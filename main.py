@@ -1,7 +1,4 @@
 def main():
-   # Initialize the account balance and transaction history
-   balance = 0.0
-   transactions = []
 
    while True:
       print("\n--- Basic Calculator ---")
